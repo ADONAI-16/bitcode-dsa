@@ -1,19 +1,12 @@
-# Python Data Types Practice
-
 # String
-
-name = "Leul"
-
+name = "Adonai"
 # Integer
-
 year_of_study = 2
-
 # Float
-cgpa = 3.75
+cgpa = 0.00
 # Boolean
 
 is_learning_dsa = True
-
 print("=== Student Profile ===")
 print("Name:", name)
 print("Year:", year_of_study)
